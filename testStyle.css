@@ -1,0 +1,15 @@
+.row{
+	margin: 15px 0px;
+}
+
+.modal-content{
+	width: 180%;
+	height: 180%;
+	left: -40%;
+}
+
+.type1 {
+	width: 50%;
+}
+
+
